@@ -1,0 +1,1 @@
+# covid-jp-sample
